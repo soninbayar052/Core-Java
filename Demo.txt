@@ -1,0 +1,8 @@
+Using Printer Writer class
+File using output String class
+dsd
+
+0. create. update edit pdf file and zip file
+1. what is a vector a synchronized, synchronize
+2. heap and stack coding example Java.
+3. 
